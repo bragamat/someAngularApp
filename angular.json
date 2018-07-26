@@ -23,9 +23,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css", 
+              "/Users/user/workspace/teste/andgular/first-app-in-angular/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/Users/user/workspace/teste/andgular/first-app-in-angular/node_modules/jquery/dist/jquery.min.js",
+              "/Users/user/workspace/teste/andgular/first-app-in-angular/node_modules/bootstrap/dist/js/bootstrap.min.js"
+              ]
           },
           "configurations": {
             "production": {
